@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.3036aff5.chunk.css",
-  "main.js": "/static/js/main.5e76d89c.chunk.js",
-  "main.js.map": "/static/js/main.5e76d89c.chunk.js.map",
+  "main.js": "/static/js/main.e7bb3175.chunk.js",
+  "main.js.map": "/static/js/main.e7bb3175.chunk.js.map",
   "static/js/1.3643c645.chunk.js": "/static/js/1.3643c645.chunk.js",
   "static/js/1.3643c645.chunk.js.map": "/static/js/1.3643c645.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
@@ -10,6 +10,6 @@
   "static/media/App.css": "/static/media/Gantari-VariableFont_wght.0b3a20ee.ttf",
   "static/css/main.3036aff5.chunk.css.map": "/static/css/main.3036aff5.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.efb2544444413ee791aa48286c10147a.js": "/precache-manifest.efb2544444413ee791aa48286c10147a.js",
+  "precache-manifest.524b598613f9b758d292aa37a9147f52.js": "/precache-manifest.524b598613f9b758d292aa37a9147f52.js",
   "service-worker.js": "/service-worker.js"
 }
