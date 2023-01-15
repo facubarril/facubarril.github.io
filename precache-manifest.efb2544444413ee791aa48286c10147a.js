@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "dd1c5e223ee239ad877b",
-    "url": "/static/css/main.dfc0a597.chunk.css"
+    "revision": "5e76d89c67e046f4506b",
+    "url": "/static/css/main.3036aff5.chunk.css"
   },
   {
-    "revision": "dd1c5e223ee239ad877b",
-    "url": "/static/js/main.dd1c5e22.chunk.js"
+    "revision": "5e76d89c67e046f4506b",
+    "url": "/static/js/main.5e76d89c.chunk.js"
   },
   {
     "revision": "3643c6455e0da4f02411",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/static/media/Gantari-VariableFont_wght.0b3a20ee.ttf"
   },
   {
-    "revision": "720c4e1982957e90fab8e368632e0daf",
+    "revision": "f13ee193e055938514d69b6bbde3bdf1",
     "url": "/index.html"
   }
 ];
