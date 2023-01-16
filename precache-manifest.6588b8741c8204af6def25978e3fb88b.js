@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e7bb3175c6edbf02b10f",
-    "url": "/static/css/main.3036aff5.chunk.css"
+    "revision": "18cb7c09012d982fdb6f",
+    "url": "/static/css/main.e19793ee.chunk.css"
   },
   {
-    "revision": "e7bb3175c6edbf02b10f",
-    "url": "/static/js/main.e7bb3175.chunk.js"
+    "revision": "18cb7c09012d982fdb6f",
+    "url": "/static/js/main.18cb7c09.chunk.js"
   },
   {
     "revision": "3643c6455e0da4f02411",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.229c360f.js"
   },
   {
-    "revision": "14f1424227b78ffc753bcf93204efaeb",
-    "url": "/static/media/bg.14f14242.jpg"
+    "revision": "b5b1cb5167ebc5118257aff2ce617bd0",
+    "url": "/static/media/bg.b5b1cb51.jpg"
   },
   {
     "revision": "de0e8e30f0ff3f26d03d19b2b88e1e0e",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/static/media/Gantari-VariableFont_wght.0b3a20ee.ttf"
   },
   {
-    "revision": "0a5ceba0959e947c62dd8df4fc7be79a",
+    "revision": "8ef100206f8f0908bb1015520931c208",
     "url": "/index.html"
   }
 ];
